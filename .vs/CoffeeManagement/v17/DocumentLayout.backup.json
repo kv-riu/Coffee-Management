@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khain\\Downloads\\LTNet\\Week6\\CoffeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7301F14B-C947-4B4C-900C-13D8A2936AF4}|CoffeeManagement.csproj|C:\\Users\\khain\\Downloads\\LTNet\\Week6\\CoffeeManagement\\coffeemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7301F14B-C947-4B4C-900C-13D8A2936AF4}|CoffeeManagement.csproj|solutionrelative:coffeemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7301F14B-C947-4B4C-900C-13D8A2936AF4}|CoffeeManagement.csproj|c:\\users\\khain\\downloads\\ltnet\\week6\\coffeemanagement\\coffeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7301F14B-C947-4B4C-900C-13D8A2936AF4}|CoffeeManagement.csproj|solutionrelative:coffeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7301F14B-C947-4B4C-900C-13D8A2936AF4}|CoffeeManagement.csproj|C:\\Users\\khain\\Downloads\\LTNet\\Week6\\CoffeeManagement\\coffeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7301F14B-C947-4B4C-900C-13D8A2936AF4}|CoffeeManagement.csproj|solutionrelative:coffeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\khain\\Downloads\\LTNet\\Week6\\CoffeeManagement\\CoffeeManagementForm.cs",
+              "RelativeDocumentMoniker": "CoffeeManagementForm.cs",
+              "ToolTip": "C:\\Users\\khain\\Downloads\\LTNet\\Week6\\CoffeeManagement\\CoffeeManagementForm.cs",
+              "RelativeToolTip": "CoffeeManagementForm.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAAG4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:24:58.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khain\\Downloads\\LTNet\\Week6\\CoffeeManagement\\CoffeeManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "CoffeeManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\khain\\Downloads\\LTNet\\Week6\\CoffeeManagement\\CoffeeManagementForm.Designer.cs",
+              "RelativeToolTip": "CoffeeManagementForm.Designer.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAQwEMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:37:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoffeeManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khain\\Downloads\\LTNet\\Week6\\CoffeeManagement\\CoffeeManagementForm.cs",
+              "RelativeDocumentMoniker": "CoffeeManagementForm.cs",
+              "ToolTip": "C:\\Users\\khain\\Downloads\\LTNet\\Week6\\CoffeeManagement\\CoffeeManagementForm.cs [Design]",
+              "RelativeToolTip": "CoffeeManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:21:05.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

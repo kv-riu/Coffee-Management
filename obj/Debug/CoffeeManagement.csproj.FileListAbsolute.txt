@@ -1,0 +1,11 @@
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\bin\Debug\CoffeeManagement.exe.config
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\bin\Debug\CoffeeManagement.exe
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\bin\Debug\CoffeeManagement.pdb
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\obj\Debug\CoffeeManagement.csproj.AssemblyReference.cache
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\obj\Debug\CoffeeManagement.CoffeeManagementForm.resources
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\obj\Debug\CoffeeManagement.Properties.Resources.resources
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\obj\Debug\CoffeeManagement.csproj.GenerateResource.cache
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\obj\Debug\CoffeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\obj\Debug\CoffeeManagement.exe
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\obj\Debug\CoffeeManagement.pdb
+C:\Users\khain\Downloads\LTNet\Week6\CoffeeManagement\obj\Debug\CoffeeManagement.exe.config
